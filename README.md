@@ -93,11 +93,11 @@
 <br clear="both">
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phyloura&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=phyloura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="stats graph" height="170px" />
   
-  <img height="180em" src="https://github-readme-stats.demolab.com?user=phyloura&theme=radical&hide_border=false" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=phyloura&theme=dark&hide_border=false" alt="streak graph" height="170px" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyloura&layout=compact&theme=radical&hide_border=false&langs_count=6" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyloura&layout=compact&theme=dracula&hide_border=false&langs_count=6" alt="languages graph" height="170px" />
 </div>
 
 ###
