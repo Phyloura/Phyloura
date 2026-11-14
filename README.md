@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I'm Rafael Nascimento, a Systems Development student and future Computer Engineer from Uberlândia, MG, Brazil.<br><br>- 🔭 I’m working as a Software Developer and Academic Mentor, focusing on high-performance applications and technical mentorship.<br>- 📚 I'm currently learning Advanced Physics & Calculus (ITA-level focus), while deepening my mastery of C++, Software Architecture, and Psychology.<br>- ⚡ In my free time I train calisthenics, analyze some philosophies, and explore the biomechanics of dance.</p>
+<p align="left">I'm Rafael Nascimento, a Systems Development student and future IT from Uberlândia, MG, Brazil.<br><br>- 🔭 I’m working as a Software Developer, GameDev and Academic Mentor, focusing on high-performance applications and technical mentorship.<br>- 📚 I'm currently learning Systems Analysis and Development, while deepening my mastery of C++ and Software Architecture.<br>- ⚡ In my free time I train calisthenics, analyze my last studies, and explore the vast world of technology</p>
 
 ###
 
